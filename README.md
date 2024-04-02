@@ -49,8 +49,25 @@
 
 ### 2.3. index.html 기본구성
 
-- (! + Tab) 을 이용하면 html 기본형이 제공된다.
+-  `! 누르면서 Tab 키를 선택`하면 html 기본형이 제공된다.
 - lang="en" 은 lang="ko" 로 수정한다.
 - 최소 tittle 은 변경한다.
-- html 파일에서 마우스 오른쪽 op
+- 미리보기 (html 파일에서 마우스 오른쪽 open width Live Sever 선택)
+```html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>카카오 브레인 블로그</title>
+</head>
+<body>
+    
+</body>
+</html>
+```
+
+### 2.4. html 문서 작업 순서
+
+
 
